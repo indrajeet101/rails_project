@@ -1,1 +1,1 @@
-# rails_project
+# Project is in master branch
